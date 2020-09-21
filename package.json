@@ -1,0 +1,23 @@
+{
+  "name": "tree-visualizer",
+  "version": "1.0.0",
+  "description": "Visualizing Racket trees to help me debug my CS assignment code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/plin0009/tree-visualizer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/plin0009/tree-visualizer/issues"
+  },
+  "homepage": "https://github.com/plin0009/tree-visualizer#readme",
+  "dependencies": {
+    "paper": "^0.12.11"
+  }
+}
